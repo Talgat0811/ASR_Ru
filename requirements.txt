@@ -1,0 +1,15 @@
+nemo_toolkit['all']
+torch
+transformers
+nemo_toolkit 
+huggingface_hub
+ipython
+scipy
+simpleaudio
+torch
+numpy
+num2words
+transliterate
+fastapi
+uvicorn[standard]
+
